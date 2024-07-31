@@ -1,0 +1,1 @@
+print("hello this ia a simple python code to implement a print function in my code career")
